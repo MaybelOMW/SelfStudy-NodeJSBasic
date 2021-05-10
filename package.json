@@ -1,0 +1,26 @@
+{
+  "name": "nodejstut",
+  "version": "1.0.0",
+  "description": "\"# SelfStudy-NodeJSBasic\"",
+  "main": "Events_EventEmitterObject.js",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "jest": "^25.2.2",
+    "nodemailer": "^6.6.0",
+    "supertest": "^6.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybelOMW/SelfStudy-NodeJSBasic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaybelOMW/SelfStudy-NodeJSBasic/issues"
+  },
+  "homepage": "https://github.com/MaybelOMW/SelfStudy-NodeJSBasic#readme"
+}
